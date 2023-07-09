@@ -1,1 +1,2 @@
 # summerdatabasedesign
+本酒店预订系统由zjut_zgx和jqy共同完成
