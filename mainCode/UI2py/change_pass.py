@@ -79,7 +79,7 @@ class Ui_mainWindow(object):
     def retranslateUi(self, mainWindow):
         _translate = QtCore.QCoreApplication.translate
         mainWindow.setWindowTitle(_translate("mainWindow", "Python酒店预订系统"))
-        self.label_2.setText(_translate("mainWindow", "酒店预定系统"))
+        self.label_2.setText(_translate("mainWindow", "酒店预订系统"))
         self.lineEdit_id.setPlaceholderText(_translate("mainWindow", "请输入用户ID"))
         self.lineEdit_initial.setPlaceholderText(_translate("mainWindow", "请输入原始密码"))
         self.lineEdit_new1.setPlaceholderText(_translate("mainWindow", "请输入新密码"))

@@ -64,7 +64,7 @@ class Ui_MainWindow(object):
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
         self.label_2.setGeometry(QtCore.QRect(370, 110, 141, 101))
         self.label_2.setText("")
-        self.label_2.setPixmap(QtGui.QPixmap("C:/Users/jqyyd/Desktop/屏幕截图 2023-06-26 230630.jpg"))
+        self.label_2.setPixmap(QtGui.QPixmap("D:/Spython/hotel-reservation-system-py/mainCode/UI2py/校徽.jpg"))
         self.label_2.setObjectName("label_2")
         self.plainTextEdit_password_2 = QtWidgets.QLineEdit(self.centralwidget)
         self.plainTextEdit_password_2.setEchoMode(QLineEdit.Password)
